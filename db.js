@@ -4,6 +4,7 @@ const brands = require("./data/brands");
 const products = require("./data/products");
 const users = require("./data/users");
 const itemTypes = require("./data/itemTypes");
+const colour = require("./data/colour");
 
 module.exports = {
   items,
@@ -11,6 +12,7 @@ module.exports = {
   products,
   users,
   brands,
+  colour,
   itemTypes
 }
 

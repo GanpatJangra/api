@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "title": "prime",
+      "primary_colour": "#D9042B",
+      "secondry_colour":"#158C03"
+    },
+    {
+      "id": "2",
+      "title": "prime",
+      "primary_colour": "#FFDE00",
+      "secondry_colour":"#2B5693"
+    },
+    {
+      "id": "3",
+      "title": "prime",
+      "primary_colour": "#F28705",
+      "secondry_colour":"#A60321"
+    }
+    
+     
+   
+  ]
