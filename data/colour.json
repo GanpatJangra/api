@@ -7,13 +7,13 @@
     },
     {
       "id": "2",
-      "title": "prime",
+      "title": "second",
       "primary_colour": "#FFDE00",
       "secondry_colour":"#2B5693"
     },
     {
       "id": "3",
-      "title": "prime",
+      "title": "third",
       "primary_colour": "#F28705",
       "secondry_colour":"#A60321"
     }
