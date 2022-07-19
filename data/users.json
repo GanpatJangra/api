@@ -1,8 +1,16 @@
 [
   {
-    "id":"1",
-    "name": "naveen",
-    "email": "nav@gmail.com",
-    "password": "1234546"
+    "first_name": "ganpat",
+    "last_name": "ganpat",
+    "email": "ganpat@gmail.com",
+    "password": "ganpat123",
+    "id": "1"
+  },
+  {
+    "first_name": "aman",
+    "last_name": "aman",
+    "email": "aman@gmail.com",
+    "password": "aman123",
+    "id": "2"
   }
 ]
