@@ -5,10 +5,12 @@ const products = require("./data/products");
 const users = require("./data/users");
 const itemTypes = require("./data/itemTypes");
 const colour = require("./data/colour");
+const category = require("./data/category.json");
 
 module.exports = {
   items,
   tags,
+  category,
   products,
   users,
   brands,
